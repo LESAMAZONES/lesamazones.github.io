@@ -14,8 +14,10 @@ h1.header{
   background-attachment: fixed;
 }
 
-img.imgheader{
-  display:center;
+div.illustration{
+  width: 560;
+  height: 315;
+  display: center;
   margin: 0px auto;
   }
 
