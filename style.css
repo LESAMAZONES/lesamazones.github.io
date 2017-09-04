@@ -8,10 +8,16 @@ img.imgheader{
   display:center;
   margin: 0px auto;
   }
+
 h1{
   color:#E80C58;
   font-size:18px;
   }
+
+h2{
+  font-size: 14px;
+  family-font: Cambria;
+}
 
 img.imgref{
   width:350px;
@@ -28,4 +34,5 @@ p{
   margin: 5px;
   width: 300px;
   height: 150px;
+  position:
 }
