@@ -1,9 +1,11 @@
 h1.header{
   color:#E80C58;
   font-family: 'Lato', sans-serif;
+  letter-spacing: 0.5;
   }
 h1{
-  color:#FF1744;
+  color:#E80C58;
+  font-size:18px;
   }
 
 img.imgref{
@@ -11,5 +13,8 @@ img.imgref{
   height:200px;
   }
 p{
-  color: Crimson;
+  color: Black;
+}
+.ref{
+  border:1px solid rgba(0,0,0,0.3);
 }
