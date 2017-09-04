@@ -10,7 +10,7 @@ h1.header{
   top: -55px;
   width: 100%;
   background: url("https://img11.hostingpics.net/pics/775031CCI25082017LR1.jpg") no-repeat center bottom;
-  background-size: contain;
+  background-size: cover;
   background-attachment: fixed;
 }
 
