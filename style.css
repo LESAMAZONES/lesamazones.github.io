@@ -4,6 +4,16 @@ h1.header{
   letter-spacing: 0.5;
   }
 
+#cover {
+  height: 900px;
+  position: relative;
+  top: -55px;
+  width: 100%;
+  background: url("https://img11.hostingpics.net/pics/967716CCI25082017LR1.jpg") no-repeat center bottom;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
 img.imgheader{
   display:center;
   margin: 0px auto;
@@ -32,7 +42,7 @@ p{
   border:1px solid rgba(0,0,0,0.3);
   padding: 10px;
   margin: 5px;
-  width: 300px;
-  height: 150px;
-  position:
+  width: 600px;
+  height: 300px;
+  position: relative;
 }
