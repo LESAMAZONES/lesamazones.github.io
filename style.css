@@ -43,11 +43,12 @@ p{
   
 .ref{
   border:1px solid rgba(0,0,0,0.3);
-  padding: 10px;
-  margin: 5px;
+  padding: 30px;
+  margin: 20px;
   width: 600px;
   height: 300px;
   position: relative;
+  display: block;
 }
 
 #footer{
