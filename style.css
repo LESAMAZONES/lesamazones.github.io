@@ -49,3 +49,20 @@ p{
 #footer{
   font-size: 0.75rem;
 }
+
+.contact-btn {
+  float: right;
+}
+
+.contact-btn a {
+  cursor: grab;
+  margin-right: 30px;
+  padding: 8px 18px;
+  border: 1px solid #204156;
+  position: relative;
+}
+
+.contact-btn a:active {
+  top: 2px;
+  cursor: grabbing;
+}
